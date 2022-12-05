@@ -1,11 +1,7 @@
 # Testimonials Grid Section
 Challenge by <a href="https://frontendmentor.io">frontendmentor.io</a> & Coded by <a href="https://yonutdev.xyz">yonutdev.xyz</a>
 <h3><a href="https://yonutdev.github.io/testimonials-grid-section/" target="_blank">👀 LIVE</a> | <a href="https://www.buymeacoffee.com/yonut" target="_blank">☕ Buy me a coffee</a>, I love 🥰 it!</h3>
-<img src="https://i.imgur.com/Jl7kznH.png"></img>
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://i.imgur.com/Jl7kznH.png">
 
 ## Available Scripts
 
